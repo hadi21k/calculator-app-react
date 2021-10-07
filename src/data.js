@@ -1,0 +1,58 @@
+export const info = [
+  {
+    id: 1,
+    name: "Isabelle Adkins",
+    country: "Togo",
+    email: "fiku@tav.mt",
+    phone: "51ca:dd97:d990:572f:8693:6c83:6f29:d5ef",
+  },
+  {
+    id: 2,
+    name: "Bettie Jenkins",
+    country: "Falkland Islands",
+    email: "ma@seca.tj",
+    phone: "e57f:50a5:0b03:bc5d:2606:526d:48d9:1b1d",
+  },
+  {
+    id: 3,
+    name: "Earl Richards",
+    country: "Netherlands",
+    email: "rajta@ape.ye",
+    phone: "0c9b:d7e4:5497:0636:c202:414b:e09b:6f50",
+  },
+  {
+    id: 4,
+    name: "Marc Ramirez",
+    country: "Australia",
+    email: "awa@zoadpu.lu",
+    phone: "3eab:0420:9505:d327:b983:3dd6:7c82:ce0c",
+  },
+  {
+    id: 5,
+    name: "Carl Ramos",
+    country: "Laos",
+    email: "edewo@mamoses.me",
+    phone: "ff39:05d5:6d39:d729:14bc:605c:f5a5:9e12",
+  },
+  {
+    id: 6,
+    name: "Sadie Brown",
+    country: "Seychelles",
+    email: "telhed@vaokapar.mg",
+    phone: "fb3e:9175:9fa1:11b5:f5bd:4981:7290:e0bf",
+  },
+  {
+    id: 7,
+    name: "Fanny Blair",
+    country: "Bahamas",
+    email: "sunbuego@pizwesa.ne",
+    phone: "a41b:6905:0bec:58c4:2725:0e26:af17:2463",
+  },
+  {
+    id: 8,
+    name: "Katie Evans",
+    country: "Australia",
+    email: "nepo@pu.kw",
+    phone: "9dd8:859d:3aa4:d6de:5179:f37b:ecb1:2ed4",
+  },
+];
