@@ -1,12 +1,10 @@
 import "./App.css";
-import Com from "./Com";
-import { InputContext } from "./context";
 
 const App = () => {
   return (
-    <InputContext>
-      <Com />
-    </InputContext>
+    <>
+      <h3>Hello World!</h3>
+    </>
   );
 };
 
