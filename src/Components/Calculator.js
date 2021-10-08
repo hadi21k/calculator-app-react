@@ -1,4 +1,4 @@
-import React, { useEffect, useRef, useState } from "react";
+import React, { useRef, useState } from "react";
 import { btns, btn_actions } from "./btn";
 const Calculator = () => {
   const [expression, setExpression] = useState("");
